@@ -110,34 +110,28 @@ An app concept designed to help people remember what they need to buy and make t
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=m esso96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=messo96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=messo96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m esso96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img src="https://streak-stats.demolab.com/?user=messo96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=m esso96&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m esso96&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=messo96&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m esso96&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=messo96&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---

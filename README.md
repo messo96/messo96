@@ -1,4 +1,4 @@
-# Hey, I'm Giovanni 👋
+# Hey, I'm Gio 👋
 
 ### Computer Engineer | Developer | Explorer 🌍
 
